@@ -9,7 +9,7 @@ def main():
     ########################################
     """
     v=0
-    for v in range(N):
+    for v in range(N+1):
         t=2**v
         result.append(t)
         print(result)
