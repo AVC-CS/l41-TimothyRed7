@@ -10,7 +10,7 @@ def main():
     """
     v=0
     for v in range(N)):
-        t=2^v
+        t=2**v
         result.append(t)
         print(result)
     print(result)
