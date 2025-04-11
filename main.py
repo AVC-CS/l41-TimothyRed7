@@ -8,6 +8,12 @@ def main():
     Code Your Program here
     ########################################
     """
+    v=0
+    for v in range(N)):
+        t=2^v
+        result.append(t)
+        print(result)
+    print(result)
 
     ########################################
     # Do not delete the return statement
